@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there 👋 I'm Sergio Obolevich
 
-<!--
-**chubaquelo/chubaquelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self taugth web developer with more than 10 years of experience in web developing and e-commerce.
+I have plenty of experience using e-commerce platforms, CRM, ERP and wordpress, helping customers get their businesses online.
 
-Here are some ideas to get you started:
+I'm actually upgrading my programming skills with the Microverse program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Ruby skills
+- 🌱 I’m currently learning how to get confident in OOP.
+- 👯 I’m looking to collaborate on an innovative company.
+- 📫 You can reach me by: Linkedin, Twitter, Email and Whatsapp.
+
+- ⚡ These are some of my recent works in web developing:
+
+      www.alfakal.com
+      www.simulationtraining.net
+      www.tubebida.net
+      www.quimvarsrl.com.ar
+      www.warven.com.ar
+      www.alfalfaargentina.com.ar
+      www.patas.com.ar
+      www.estudiofernandezricci.com
+      www.miproductordeseguros.com
