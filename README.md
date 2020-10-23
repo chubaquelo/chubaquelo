@@ -12,6 +12,8 @@ I'm actually upgrading my programming skills with the Microverse program.
 
 - ⚡ These are some of my recent works in web developing:
 
+      # Wordpress, Prestashop, and Woocommerce Implementations:
+      
       www.alfakal.com
       www.simulationtraining.net
       www.tubebida.com.ar
@@ -21,6 +23,15 @@ I'm actually upgrading my programming skills with the Microverse program.
       www.patas.com.ar
       www.estudiofernandezricci.com
       www.miproductordeseguros.com
+      
+      # Pure HTML + CSS + Responsive:
+      
+      Store Layout: https://chubaquelo.github.io/HTML-Online-Store-Capstone/
+      Newskeed Clone: https://chubaquelo.github.io/Bootstrap-Newsweek-Clone/
+      Nextweb Clone: https://chubaquelo.github.io/The-Next-Web-Responsive-Clone/
+      NY Times Layout Clone: https://chubaquelo.github.io/NYtimes-Clone-Project/
+      Smash Mag Teardown: https://chubaquelo.github.io/Smashing-Mag-Teardown/
+      Google Home Clone: https://chubaquelo.github.io/google-homepage
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
