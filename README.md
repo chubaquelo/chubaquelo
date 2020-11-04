@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Sergio Obolevich
 
-I'm a self taugth web developer with more than 10 years of experience in web developing and e-commerce.
-I have plenty of experience using e-commerce platforms, CRM, ERP and wordpress, helping customers get their businesses online.
+I'm a self taugth web developer with more than 10 years of experience in web developing and e-commerce as freelancer.<br>
+I have experience using e-commerce platforms, CRM, ERP and wordpress, helping customers get their businesses online.
 
 I'm actually upgrading my programming skills with the Microverse program.
 
