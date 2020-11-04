@@ -6,32 +6,32 @@ I have plenty of experience using e-commerce platforms, CRM, ERP and wordpress, 
 I'm actually upgrading my programming skills with the Microverse program.
 
 - 🔭 I’m currently working on my Ruby on Rails skills
-- 🌱 I’m currently learning how to get confident in OOP.
 - 👯 I’m looking to collaborate on an innovative company.
 - 📫 You can reach me by: Linkedin, Twitter, Email and Whatsapp.
 
 - ⚡ These are some of my recent works in web developing:
 
-      # Wordpress, Prestashop, and Woocommerce Implementations:
+# [Wordpress, Prestashop, and Woocommerce] Production:
       
-      www.alfakal.com
-      www.simulationtraining.net
-      www.tubebida.com.ar
-      www.plasticosvargas.com.ar
-      www.warven.com.ar
-      www.alfalfaargentina.com.ar
-      www.patas.com.ar
-      www.estudiofernandezricci.com
-      www.miproductordeseguros.com
+[www.alfakal.com](www.alfakal.com)<br>
+[www.simulationtraining.net](www.simulationtraining.net)<br>
+[www.tubebida.com.ar](www.tubebida.com.ar)<br>
+[www.plasticosvargas.com.ar](www.plasticosvargas.com.ar)<br>
+[www.warven.com.ar](www.warven.com.ar)<br>
+[www.alfalfaargentina.com.ar](www.alfalfaargentina.com.ar)<br>
+[www.patas.com.ar](www.patas.com.ar)<br>
+[www.estudiofernandezricci.com](www.estudiofernandezricci.com)<br>
+[www.miproductordeseguros.com](www.miproductordeseguros.com)<br>
       
-      # Pure HTML + CSS + Responsive:
-      
-      Store Layout: https://chubaquelo.github.io/HTML-Online-Store-Capstone/
-      Newskeed Clone: https://chubaquelo.github.io/Bootstrap-Newsweek-Clone/
-      Nextweb Clone: https://chubaquelo.github.io/The-Next-Web-Responsive-Clone/
-      NY Times Layout Clone: https://chubaquelo.github.io/NYtimes-Clone-Project/
-      Smash Mag Teardown: https://chubaquelo.github.io/Smashing-Mag-Teardown/
-      Google Home Clone: https://chubaquelo.github.io/google-homepage
+
+# [Plain HTML + CSS + Responsive] Projects:
+
+[Store Layout](https://chubaquelo.github.io/HTML-Online-Store-Capstone/)<br>
+[Newskeed Clone](https://chubaquelo.github.io/Bootstrap-Newsweek-Clone/)<br>
+[Nextweb Clone](https://chubaquelo.github.io/The-Next-Web-Responsive-Clone/)<br>
+[NY Times Layout Clone](https://chubaquelo.github.io/NYtimes-Clone-Project/)<br>
+[Smash Mag Teardown](https://chubaquelo.github.io/Smashing-Mag-Teardown/)<br>
+[Google Home Clone](https://chubaquelo.github.io/google-homepage)<br>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
