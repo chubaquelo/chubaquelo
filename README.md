@@ -5,7 +5,7 @@ I have plenty of experience using e-commerce platforms, CRM, ERP and wordpress, 
 
 I'm actually upgrading my programming skills with the Microverse program.
 
-- 🔭 I’m currently working on my Ruby skills
+- 🔭 I’m currently working on my Ruby on Rails skills
 - 🌱 I’m currently learning how to get confident in OOP.
 - 👯 I’m looking to collaborate on an innovative company.
 - 📫 You can reach me by: Linkedin, Twitter, Email and Whatsapp.
