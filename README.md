@@ -7,7 +7,7 @@ I'm actually upgrading my programming skills with the Microverse program.
 
 - 🔭 I’m currently working on my Ruby on Rails skills
 - 👯 I’m looking to collaborate on an innovative company.
-- 📫 You can reach me by: Linkedin, Twitter, Email and Whatsapp.
+- 📫 You can reach me by: [Linkedin](https://www.linkedin.com/in/sergio-obolevich), [Twitter](https://twitter.com/SergioObolevich), and [Whatsapp](https://wa.me/5493515055933).
 
 - ⚡ These are some of my recent works in web developing:
 
@@ -32,7 +32,7 @@ I'm actually upgrading my programming skills with the Microverse program.
 [Nextweb Clone](https://chubaquelo.github.io/The-Next-Web-Responsive-Clone/)<br>
 [NY Times Layout Clone](https://chubaquelo.github.io/NYtimes-Clone-Project/)<br>
 [Smash Mag Teardown](https://chubaquelo.github.io/Smashing-Mag-Teardown/)<br>
-[Google Home Clone](https://chubaquelo.github.io/google-homepage)<br>
+[Google Home Clone](https://chubaquelo.github.io/google-homepage)<br><br><br>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
