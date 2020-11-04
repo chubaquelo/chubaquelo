@@ -3,9 +3,9 @@
 I'm a self taugth web developer with more than 10 years of experience in web developing and e-commerce as freelancer.<br>
 I have experience using e-commerce platforms, CRM, ERP and wordpress, helping customers get their businesses online.
 
-I'm actually upgrading my programming skills with the Microverse program.
+#### I'm currently upgrading my programming skills with the [Microverse](www.microverse.org) program.
 
-- 🔭 I’m currently working on my Ruby on Rails skills
+- 🔭 Working on my Ruby on Rails skills
 - 👯 I’m looking to collaborate on an innovative company.
 - 📫 You can reach me by: [Linkedin](https://www.linkedin.com/in/sergio-obolevich), [Twitter](https://twitter.com/SergioObolevich), and [Whatsapp](https://wa.me/5493515055933).
 
@@ -13,16 +13,16 @@ I'm actually upgrading my programming skills with the Microverse program.
 
 # [Wordpress, Prestashop, and Woocommerce] Production:
       
-[www.alfakal.com](www.alfakal.com)<br>
-[www.simulationtraining.net](www.simulationtraining.net)<br>
-[www.tubebida.com.ar](www.tubebida.com.ar)<br>
-[www.galhaarmedical.com](www.galhaarmedical.com)<br>
-[www.plasticosvargas.com.ar](www.plasticosvargas.com.ar)<br>
-[www.warven.com.ar](www.warven.com.ar)<br>
-[www.alfalfaargentina.com.ar](www.alfalfaargentina.com.ar)<br>
-[www.patas.com.ar](www.patas.com.ar)<br>
-[www.estudiofernandezricci.com](www.estudiofernandezricci.com)<br>
-[www.miproductordeseguros.com](www.miproductordeseguros.com)<br>
+[www.alfakal.com](https://www.alfakal.com)<br>
+[www.simulationtraining.net](https://www.simulationtraining.net)<br>
+[www.tubebida.com.ar](https://www.tubebida.com.ar)<br>
+[www.galhaarmedical.com](https://www.galhaarmedical.com)<br>
+[www.plasticosvargas.com.ar](http://www.plasticosvargas.com.ar)<br>
+[www.warven.com.ar](https://www.warven.com.ar)<br>
+[www.alfalfaargentina.com.ar](https://www.alfalfaargentina.com.ar)<br>
+[www.patas.com.ar](https://www.patas.com.ar)<br>
+[www.estudiofernandezricci.com](https://www.estudiofernandezricci.com)<br>
+[www.miproductordeseguros.com](https://www.miproductordeseguros.com)<br>
       
 
 # [Plain HTML + CSS + Responsive] Projects:
