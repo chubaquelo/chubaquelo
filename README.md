@@ -3,7 +3,7 @@
 I'm a self taugth web developer with more than 10 years of experience in web developing and e-commerce as freelancer.<br>
 I have experience using e-commerce platforms, CRM, ERP and wordpress, helping customers get their businesses online.
 
-#### I'm currently upgrading my programming skills with the [Microverse](www.microverse.org) program.
+#### I'm currently upgrading my programming skills with the [Microverse](https://www.microverse.org) program.
 
 - 🔭 Working on my Ruby on Rails skills
 - 👯 I’m looking to collaborate on an innovative company.
