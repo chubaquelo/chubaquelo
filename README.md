@@ -32,7 +32,14 @@ I have experience using e-commerce platforms, CRM, ERP and wordpress, helping cu
 [Nextweb Clone](https://chubaquelo.github.io/The-Next-Web-Responsive-Clone/)<br>
 [NY Times Layout Clone](https://chubaquelo.github.io/NYtimes-Clone-Project/)<br>
 [Smash Mag Teardown](https://chubaquelo.github.io/Smashing-Mag-Teardown/)<br>
-[Google Home Clone](https://chubaquelo.github.io/google-homepage)<br><br><br>
+[Google Home Clone](https://chubaquelo.github.io/google-homepage)<br>
+
+
+# [Ruby + Ruby on Rails] Projects:
+
+[Private Events](https://github.com/chubaquelo/Private-Events)<br>
+[Ruby Covid Stats Scraper](https://github.com/chubaquelo/Ruby-Covid-Stats-Scraper)<br>
+[Rails Twitter Clone](https://github.com/chubaquelo/Rails-Twitteeer)<br><br><br>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
