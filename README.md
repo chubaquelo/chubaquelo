@@ -37,6 +37,7 @@ I have experience using e-commerce platforms, CRM, ERP and wordpress, helping cu
 
 # [Ruby + Ruby on Rails] Projects:
 
+[Blog Application](https://github.com/chubaquelo/Tech-Articles-Blog)<br>
 [Private Events](https://github.com/chubaquelo/Private-Events)<br>
 [Ruby Covid Stats Scraper](https://github.com/chubaquelo/Ruby-Covid-Stats-Scraper)<br>
 [Rails Twitter Clone](https://github.com/chubaquelo/Rails-Twitteeer)<br><br><br>
