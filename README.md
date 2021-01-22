@@ -15,15 +15,15 @@ I have experience using e-commerce platforms, CRM, ERP and wordpress, helping cu
 # [Wordpress, Prestashop, and Woocommerce] Production:
       
 <p align="center">
-      www.SimulationTraining.net
-      www.TuBebida.com.ar
-      www.Patas.com.ar
-      www.Warven.com.ar
-      www.GalhaarMedical.com
-      www.AlFakal.com
-      www.PlasticosVargas.com.ar
-      www.AlfalfaArgentina.com.ar
-      www.EstudioFernandezRicci.com
+      www.SimulationTraining.net |
+      www.TuBebida.com.ar |
+      www.Patas.com.ar |
+      www.Warven.com.ar |
+      www.GalhaarMedical.com|
+      www.AlFakal.com|
+      www.PlasticosVargas.com.ar |
+      www.AlfalfaArgentina.com.ar |
+      www.EstudioFernandezRicci.com |
       www.MiProductorDeSeguros.com
 </p>
 
