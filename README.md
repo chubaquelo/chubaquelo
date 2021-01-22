@@ -11,7 +11,7 @@
       <a href="https://www.linkedin.com/in/sergio-obolevich"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
 </p>
 
-<p align="center">I'm a self taugth web developer with years of experience in web developing and e-commerce using open source systems as freelancer.<br>
+<p align="center">I'm a self-taught web developer with years of experience in web developing and e-commerce using open source systems as freelancer.<br>
       I have experience using E-commerce platforms as Woocommerce, Prestashop and some Magento, implementing CRMs and ERPs, and helping customers get their businesses to the new age.
 </p>
 
