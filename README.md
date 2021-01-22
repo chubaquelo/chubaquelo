@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/LOGO-SERGIO-FullStack-Dev-Centered.fw.png"></p>
 <h1 align="center">Hello there 👋 I'm Sergio Obolevich</h1>
 
 <p align="center">I'm a self taugth web developer with years of experience in web developing and e-commerce using open source systems as freelancer.<br>
