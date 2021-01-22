@@ -1,6 +1,13 @@
 <p align="center"><img src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/LOGO-SERGIO-FullStack-Dev-Center.fw.png"></p>
 <h1 align="center">Hello there 👋 I'm Sergio Obolevich</h1>
 
+
+<p align="center" style="display: inline;">
+      <a href="https://github.com/chubaquelo?tab=followers"><img src="https://img.shields.io/github/followers/chubaquelo?label=Follow%20me&style=social"></a>
+      <a href="https://www.twitter.com/sergioObolevich"><img src="https://img.shields.io/twitter/follow/sergioObolevich?style=social"></a>
+      <a href="https://www.linkedin.com/in/sergio-obolevich"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
+</p>
+
 <p align="center">I'm a self taugth web developer with years of experience in web developing and e-commerce using open source systems as freelancer.<br>
       I have experience using E-commerce platforms as Woocommerce, Prestashop and some Magento, implementing CRMs and ERPs, and helping customers get their businesses to the new age.
 </p>
@@ -53,15 +60,15 @@
 <br><br>
 
 <p align="center" style="display: inline;">
-      <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" href="#">
-      <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" href="#">
-      <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" href="#">
-      <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" href="#">
-      <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" href="#">
-      <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" href="#">
-      <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" href="#">
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" href="#">
-      <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" href="#">
+      <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"></a>
 </p>
 
 
