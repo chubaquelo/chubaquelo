@@ -24,19 +24,6 @@
 <p align="center">⚡ You can check the projects I have done below:</p>
 
 <br>
-<h2 align="center">Wordpress, Prestashop, and Woocommerce</h2>
-      
-<p align="center">
-      www.SimulationTraining.net -
-      www.TuBebida.com.ar -
-      www.Patas.com.ar -
-      www.Warven.com.ar -
-      www.GalhaarMedical.com -
-      www.AlFakal.com -
-      www.PlasticosVargas.com.ar -
-      www.AlfalfaArgentina.com.ar -
-      www.EstudioFernandezRicci.com -
-</p>
 
 <h2 align="center"> 
       <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -64,6 +51,20 @@
       <a href="https://github.com/chubaquelo/Ruby-Covid-Stats-Scraper">Ruby Covid Stats Scraper</a> -
       <a href="https://github.com/chubaquelo/Rails-Twitteeer">Rails Twitter Clone</a>
 </p>
+
+<h2 align="center">Wordpress, Prestashop, and Woocommerce</h2>
+
+<p align="center">
+      www.SimulationTraining.net -
+      www.Patas.com.ar -
+      www.Warven.com.ar -
+      www.GalhaarMedical.com -
+      www.AlFakal.com -
+      www.PlasticosVargas.com.ar -
+      www.AlfalfaArgentina.com.ar -
+      www.EstudioFernandezRicci.com -
+</p>
+
 <br><br>
 
 <p align="center"><img href="https://github.com/chubaquelo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubaquelo&layout=compact)"></p>
