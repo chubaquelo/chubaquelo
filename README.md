@@ -4,13 +4,13 @@
       I have experience using E-commerce platforms as Woocommerce, Prestashop and some Magento, implementing CRMs and ERPs, and helping customers get their businesses to the new age.
 </p>
 
-#### I'm currently upgrading my programming skills with the [Microverse](https://www.microverse.org) program.
+<h4 align="center"> I'm currently upgrading my programming skills with the <a href="https://www.microverse.org" target="_blank">Microverse</a> program.</h4>
 
-- 🔭 Working on my Javascript and React skills.
-- 👯 I’m looking to collaborate remotely on a thriving company.
-- 📫 You can reach me by: [Linkedin](https://www.linkedin.com/in/sergio-obolevich), [Twitter](https://twitter.com/SergioObolevich), and [Whatsapp](https://wa.me/5493515055933).
+<p align="center"> 🔭 Working on my Javascript and React skills.</p>
+<p align="center">  👯 I’m looking to collaborate remotely on a thriving company.</p>
+<p align="center">  📫 You can reach me by: <a href="https://www.linkedin.com/in/sergio-obolevich" target="_blank">Linkedin</a>, <a href="https://twitter.com/SergioObolevich" target="_blank">Twitter</a>, and <a href="https://wa.me/5493515055933" target="_blank">Whatsapp</a>.</p>
 
-- ⚡ These are some of my recent works in web developing:
+<p align="center">⚡ You can check the projects I have done below:</p>
 
 <br>
 <h2 align="center">Wordpress, Prestashop, and Woocommerce</h2>
@@ -25,30 +25,28 @@
       www.PlasticosVargas.com.ar -
       www.AlfalfaArgentina.com.ar -
       www.EstudioFernandezRicci.com -
-      www.MiProductorDeSeguros.com
 </p>
-<br>
 
 <h2 align="center">Plain HTML + CSS + Responsive</h2>
 
 <p align="center">
-      <a href="https://chubaquelo.github.io/HTML-Online-Store-Capstone/">HTML Store Layout</a>
-      <a href="https://chubaquelo.github.io/Bootstrap-Newsweek-Clone/">Newskeed Clone</a>
-      <a href="https://chubaquelo.github.io/The-Next-Web-Responsive-Clone/">Nextweb Clone</a>
-      <a href="https://chubaquelo.github.io/NYtimes-Clone-Project/">NY Times Layout Clone</a>
-      <a href="https://chubaquelo.github.io/Smashing-Mag-Teardown/">Smash Mag Teardown</a>
+      <a href="https://chubaquelo.github.io/HTML-Online-Store-Capstone/">HTML Store Layout</a> -
+      <a href="https://chubaquelo.github.io/Bootstrap-Newsweek-Clone/">Newskeed Clone</a> -
+      <a href="https://chubaquelo.github.io/The-Next-Web-Responsive-Clone/">Nextweb Clone</a> -
+      <a href="https://chubaquelo.github.io/NYtimes-Clone-Project/">NY Times Layout Clone</a> -
+      <a href="https://chubaquelo.github.io/Smashing-Mag-Teardown/">Smash Mag Teardown</a> -
       <a href="https://chubaquelo.github.io/google-homepage">Google Home Clone</a>
 </p>
-<br>
 
 <h2 align="center">Ruby + Ruby on Rails</h2>
 
 <p align="center">
-      <a href="https://github.com/chubaquelo/Tech-Articles-Blog">Blog Application</a>
-      <a href="https://github.com/chubaquelo/Private-Events">Private Events</a>
-      <a href="https://github.com/chubaquelo/Ruby-Covid-Stats-Scraper">Ruby Covid Stats Scraper</a>
+      <a href="https://github.com/chubaquelo/Tech-Articles-Blog">Blog Application</a> -
+      <a href="https://github.com/chubaquelo/Private-Events">Private Events</a> -
+      <a href="https://github.com/chubaquelo/Ruby-Covid-Stats-Scraper">Ruby Covid Stats Scraper</a> -
       <a href="https://github.com/chubaquelo/Rails-Twitteeer">Rails Twitter Clone</a>
 </p>
+<br><br>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
