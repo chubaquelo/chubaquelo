@@ -1,6 +1,6 @@
 <p align="center">
-      <img max-width="120px" src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/LOGO-SERGIO-FullStack-Dev-Center.fw.png">
-      <img max-width="120px" src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/github-men.fw.png">
+      <a href="#"><img width="400px" src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/LOGO-SERGIO-FullStack-Dev-Center.fw.png"></a>
+      <a href="#"><img width="250px" src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/github-men.fw.png"></a>
 </p>
 <h1 align="center">Hello there 👋 I'm Sergio Obolevich</h1>
 
