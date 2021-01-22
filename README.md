@@ -11,19 +11,21 @@ I have experience using e-commerce platforms, CRM, ERP and wordpress, helping cu
 
 - ⚡ These are some of my recent works in web developing:
 
+
 # [Wordpress, Prestashop, and Woocommerce] Production:
       
-[www.alfakal.com](https://www.alfakal.com)<br>
-[www.simulationtraining.net](https://www.simulationtraining.net)<br>
-[www.tubebida.com.ar](https://www.tubebida.com.ar)<br>
-[www.galhaarmedical.com](https://www.galhaarmedical.com)<br>
-[www.plasticosvargas.com.ar](http://www.plasticosvargas.com.ar)<br>
-[www.warven.com.ar](https://www.warven.com.ar)<br>
-[www.alfalfaargentina.com.ar](https://www.alfalfaargentina.com.ar)<br>
-[www.patas.com.ar](https://www.patas.com.ar)<br>
-[www.estudiofernandezricci.com](https://www.estudiofernandezricci.com)<br>
-[www.miproductordeseguros.com](https://www.miproductordeseguros.com)<br>
-      
+<p align="center">
+      www.SimulationTraining.net
+      www.TuBebida.com.ar
+      www.Patas.com.ar
+      www.Warven.com.ar
+      www.GalhaarMedical.com
+      www.AlFakal.com
+      www.PlasticosVargas.com.ar
+      www.AlfalfaArgentina.com.ar
+      www.EstudioFernandezRicci.com
+      www.MiProductorDeSeguros.com
+</p>
 
 # [Plain HTML + CSS + Responsive] Projects:
 
