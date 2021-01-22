@@ -1,5 +1,6 @@
 <p align="center">
       <img src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/LOGO-SERGIO-FullStack-Dev-Center.fw.png">
+      <img src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/github-men.fw.png">
 </p>
 <h1 align="center">Hello there 👋 I'm Sergio Obolevich</h1>
 
