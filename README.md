@@ -1,4 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/LOGO-SERGIO-FullStack-Dev-Center.fw.png"></p>
+<p align="center">
+      <img src="https://raw.githubusercontent.com/chubaquelo/chubaquelo/main/LOGO-SERGIO-FullStack-Dev-Center.fw.png">
+</p>
 <h1 align="center">Hello there 👋 I'm Sergio Obolevich</h1>
 
 
@@ -35,7 +37,11 @@
       www.EstudioFernandezRicci.com -
 </p>
 
-<h2 align="center">Plain HTML + CSS + Responsive</h2>
+<h2 align="center">Plain HTML + CSS + Responsive 
+      <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+</h2>
 
 <p align="center">
       <a href="https://chubaquelo.github.io/HTML-Online-Store-Capstone/">HTML Store Layout</a> -
@@ -46,7 +52,10 @@
       <a href="https://chubaquelo.github.io/google-homepage">Google Home Clone</a>
 </p>
 
-<h2 align="center">Ruby + Ruby on Rails</h2>
+<h2 align="center">Ruby + Ruby on Rails
+      <a href="#"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
+</h2>
 
 <p align="center">
       <a href="https://github.com/chubaquelo/Tech-Articles-Blog">Blog Application</a> -
