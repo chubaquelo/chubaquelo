@@ -11,17 +11,14 @@
       <a href="https://www.linkedin.com/in/sergio-obolevich"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
 </p>
 
-<p align="center">I'm a self-taught web developer with years of experience in web developing and e-commerce using open source systems as freelancer.<br>
-      I have experience using E-commerce platforms as Woocommerce, Prestashop and some Magento, implementing CRMs and ERPs, and helping customers get their businesses to the new age.
+<p align="center">I'm a self-taught web developer with years of experience in web and app development and also e-commerce experience.
 </p>
 
-<h4 align="center"> I'm currently upgrading my programming skills with the <a href="https://www.microverse.org" target="_blank">Microverse</a> program.</h4>
-
-<p align="center"> 🔭 Working on my Javascript and React skills.</p>
-<p align="center">  👯 I’m looking to collaborate remotely on a thriving company.</p>
+<p align="center"> 🔭 Working on NodeJS and React business applications.</p>
+<p align="center">  👯 Already collaborating remotely on a thriving company!</p>
 <p align="center">  📫 You can reach me by: <a href="https://www.linkedin.com/in/sergio-obolevich" target="_blank">Linkedin</a>, <a href="https://twitter.com/SergioObolevich" target="_blank">Twitter</a>, and <a href="https://wa.me/5493515055933" target="_blank">Whatsapp</a>.</p>
 
-<p align="center">⚡ You can check the projects I have done below:</p>
+<p align="center">⚡ You can check some projects I have done below:</p>
 
 <br>
 
