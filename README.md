@@ -64,9 +64,6 @@
 
 <br><br>
 
-<p align="center"><img href="https://github.com/chubaquelo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubaquelo&layout=compact)"></p>
-<br><br>
-
 <p align="center" style="display: inline;">
       <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
       <a href="#"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>
