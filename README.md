@@ -11,7 +11,7 @@
       <a href="https://www.linkedin.com/in/sergio-obolevich"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
 </p>
 
-<p align="center">I'm a self-taught web developer with years of experience in web and app development and also e-commerce experience.
+<p align="center">I'm a Full Stack Javascript developer with years of experience in web and app development and also e-commerce experience.
 </p>
 
 <p align="center"> 🔭 Working on NodeJS and React business applications.</p>
