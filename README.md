@@ -30,6 +30,7 @@
 
 <p align="center">
       <a href="https://chubaquelo.github.io/HTML-Online-Store-Capstone/">HTML Store Layout</a> -
+      <a href="https://hardcore-elion-bbb6da.netlify.app/">React-Redux Ecommerce Frontend</a> -
       <a href="https://chubaquelo.github.io/Bootstrap-Newsweek-Clone/">Newskeed Clone</a> -
       <a href="https://chubaquelo.github.io/The-Next-Web-Responsive-Clone/">Nextweb Clone</a> -
       <a href="https://chubaquelo.github.io/NYtimes-Clone-Project/">NY Times Layout Clone</a> -
