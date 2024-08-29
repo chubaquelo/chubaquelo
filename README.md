@@ -54,13 +54,9 @@
 
 <p align="center">
       www.SimulationTraining.net -
-      www.Patas.com.ar -
-      www.Warven.com.ar -
-      www.GalhaarMedical.com -
       www.AlFakal.com -
-      www.PlasticosVargas.com.ar -
+      www.Patas.com.ar -
       www.AlfalfaArgentina.com.ar -
-      www.EstudioFernandezRicci.com -
 </p>
 
 <br><br>
