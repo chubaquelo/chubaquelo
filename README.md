@@ -16,7 +16,7 @@
 
 <p align="center"> 🔭 Working on NodeJS and React business applications.</p>
 <p align="center">  👯 Already collaborating remotely on a thriving company!</p>
-<p align="center">  📫 You can reach me by: <a href="https://www.linkedin.com/in/sergio-obolevich" target="_blank">Linkedin</a>, <a href="https://twitter.com/SergioObolevich" target="_blank">Twitter</a>, and <a href="https://wa.me/5493515055933" target="_blank">Whatsapp</a>.</p>
+<p align="center">  📫 You can reach me by: <a href="https://sergio.obolevich.dev" target="_blank">My Website</a>, <a href="https://www.linkedin.com/in/sergio-obolevich" target="_blank">Linkedin</a>, <a href="https://twitter.com/SergioObolevich" target="_blank">Twitter</a>, and <a href="https://wa.me/5493515055933" target="_blank">Whatsapp</a>.</p>
 
 <p align="center">⚡ You can check some projects I have done below:</p>
 
